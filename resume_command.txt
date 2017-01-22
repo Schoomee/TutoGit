@@ -1,0 +1,12 @@
+# ajouter fichier dans index
+git add mon_fichier
+
+# commiter les modifications
+git commit -m "information a renseigner"
+
+# commiter les fichiers deja indexer"
+git commit -a -m "information a renseigner"
+
+# historique des commits
+git log
+
