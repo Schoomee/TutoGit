@@ -16,3 +16,11 @@ git chekout "num de commit"
 # annuler le retour commit
 git checkout master
 
+# envoyer un nouveau repository vers github
+git remote add origin  https://github.com/Schoomee/TutoGit.git
+
+# …or push an existing repository from the command line
+git remote add origin https://github.com/Schoomee/TutoGit.git
+git push -u origin master
+
+
