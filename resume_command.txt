@@ -10,3 +10,9 @@ git commit -a -m "information a renseigner"
 # historique des commits
 git log
 
+# revenir sur un commit
+git chekout "num de commit"
+
+# annuler le retour commit
+git checkout master
+
